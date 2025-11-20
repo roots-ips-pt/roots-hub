@@ -83,11 +83,12 @@ O ROOTS valoriza contributos multidisciplinares — não é necessário ter “*
 
 ## 4️⃣ Acesso à organização ROOTS no GitHub
 
-Após preencheres o formulário e criares a tua conta GitHub:
+Após criares a tua conta GitHub e preencheres o formulário:
 
-➡️ **Terás de submeter um pedido para entrar na organização ROOTS.**
+➡️ **Irás receber brevemente um _invite_ para entrar na organização ROOTS.**
 
-(Será disponibilizada uma ligação direta assim que a organização estiver configurada para pedidos externos.)
+> [!NOTE]
+> Este _invite_ seguirá na forma de email para o endereço que utilizaste para registar a tua conta Github.
 
 Depois de aceite:
 
@@ -105,10 +106,10 @@ Antes de participares ativamente, é **obrigatório** ler o _Código de Conduta_
 
 Este documento define:
 
-* Normas de comportamento
-* Expectativas de colaboração
-* Regras para interações presenciais e online
-* Como reportar incidentes
+* Normas de comportamento;
+* Expectativas de colaboração;
+* Regras para interações presenciais e online;
+* Como reportar incidentes.
 
 O cumprimento destas regras é essencial para garantir um ambiente seguro, inclusivo, cordial e profissional.
 
