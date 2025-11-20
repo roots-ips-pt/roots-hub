@@ -27,7 +27,9 @@ Este registo serve para:
 * Facilitar o processo de integração na organização GitHub.
 
 > [!IMPORTANT]
-> Para membros ativos do IPS, deve ser utilizado **obrigatoriamente o email institucional**.
+> Para uma participação plena no grupo, é necessária uma conta Github (ver secção 3️⃣). No formulário de registo poderás incluir o teu *username*/email da conta para seres adicionado a esta organização do ROOTS.
+>
+> Se preencheste o formulário durante a divulgação inicial do grupo, poderás preenchê-lo novamente com esta informação ou então envia um email - através do teu email institucional - para o contacto na secção 7️⃣, fornecendo o username/email da tua conta Github.
 
 ---
 
@@ -40,7 +42,7 @@ Para poder:
 * Participar nos fóruns (GitHub Discussions);
 * Contribuir para repositórios;
 * Criar ou comentar issues, e/ou;
-* Fazer parte de equipas de projeto
+* Fazer parte de equipas de projeto.
 
 é necessária uma conta GitHub ativa.
 
