@@ -8,7 +8,7 @@ A comunicação no ROOTS deve ser simples, centralizada e acessível a todos os 
 
 A plataforma oficial de comunicação do ROOTS é a **organização GitHub do grupo**, através do separador:
 
-👉 **Discussions** (TODO: link)
+👉 **[Discussions](https://github.com/orgs/roots-ips-pt/discussions)**
 
 Este é o espaço recomendado para:
 
