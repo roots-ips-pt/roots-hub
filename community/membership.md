@@ -18,7 +18,7 @@ O grupo promove a colaboração interdisciplinar e está aberto tanto a atividad
 
 Para integrar a comunidade ROOTS, é necessário preencher o formulário de adesão:
 
-👉 [Formulário de registo](https://forms.office.com/e/EsZqadJWXu)
+👉 [Formulário de adesão](https://forms.office.com/e/EsZqadJWXu)
 
 Este registo serve para:
 
