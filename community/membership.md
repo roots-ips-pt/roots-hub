@@ -1,4 +1,4 @@
-# Adesão
+# ✅ Adesão
 
 ## 1️⃣ Quem pode ser membro?
 

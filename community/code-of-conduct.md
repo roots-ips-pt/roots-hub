@@ -1,4 +1,4 @@
-# Código de Conduta do ROOTS
+# 🤝 Código de Conduta do ROOTS
 
 ## 1️⃣ Princípios fundamentais
 

@@ -1,4 +1,4 @@
-# Canais de Comunicação
+# 📢 Canais de Comunicação
 
 A comunicação no ROOTS deve ser simples, centralizada e acessível a todos os membros. Para evitar dispersão por múltiplas plataformas — o que dificulta a colaboração e fragmenta a informação — adotamos um modelo de **canal principal único**, complementado apenas quando necessário.
 
