@@ -10,7 +10,7 @@ Este documento define a estrutura organizacional, os papéis, responsabilidades 
 ###  Coordenador(a) Geral
 
 **Responsabilidades principais:**
-- Articular com a Direção da ESTSetúbal, docentes e parceiros externos.
+- Articular atividades com a Direção da ESTSetúbal, IPS, docentes e parceiros externos.
 - Definir a agenda geral semestral do grupo.
 - Assegurar continuidade das atividades e apoiar a transição entre equipas organizadoras.
 - Representar oficialmente o ROOTS em eventos, comunicações e propostas formais.
@@ -25,15 +25,16 @@ Docente envolvido ou estudante sénior com experiência, responsabilidade e capa
 Grupo rotativo de estudantes voluntários, com **mandato de 1 semestre**, responsável pela gestão operacional.
 
 **Responsabilidades:**
-- Planear o calendário de eventos (talks, workshops, hackathons, meetups).
-- Assegurar comunicação interna e externa (cartazes, redes sociais, canais de chat).
-- Gerir logística e materiais necessários às atividades.
+- Planear o calendário de eventos (talks, workshops, hackathons, meetups e/ou outros).
+- Assegurar comunicação interna e externa (cartazes, redes sociais, etc.).
+- Prever logística e materiais necessários às atividades.
 - Reunir-se regularmente (ex.: quinzenalmente) para acompanhamento e planeamento.
 
 **Funções possíveis dentro do núcleo:**
 - **Responsável de Eventos** – programação, contactos, agendamento.
 - **Responsável de Comunicação** – divulgação, redes sociais, materiais gráficos.
 - **Responsável Técnico** – manutenção de repositórios, ferramentas, infraestrutura digital.
+- (🚧 Outras que venhamos a necessitar)
 
 ---
 
@@ -50,7 +51,7 @@ Qualquer estudante que participe regularmente nas atividades do ROOTS.
 
 ### Mentores/as
 
-Docentes ou alumni que apoiam o grupo com orientação técnica ou estratégica.
+Docentes, funcionários não-docente ou *alumni* que apoiam o grupo com orientação técnica ou estratégica.
 
 **Características:**
 - Papel não executivo: sem envolvimento direto na gestão.
@@ -61,7 +62,7 @@ Docentes ou alumni que apoiam o grupo com orientação técnica ou estratégica.
 ## ⚙️ Princípios de Funcionamento
 
 - **Reuniões abertas**  
-  Todas as decisões são discutidas em reuniões abertas. São registadas de forma simples (ex.: atas num repositório GitHub).
+  Todas as decisões são discutidas em reuniões abertas. São registadas de forma simples em `docs/meetings/`.
 
 - **Rotação de funções**  
   As funções no núcleo organizador mudam a cada semestre, promovendo aprendizagem e rotatividade.
