@@ -2,9 +2,9 @@
 
 Short description of what this project does and why it exists.
 
-> **Status:** Under initial development (version 0.1.0)  
-> **ROOTS Project:** <https://github.com/roots-ips-pt>
-> **Maintainers:** @username1, @username2
+> ℹ️ **Status:** Under initial development (version unreleased)  
+> 🌱 **ROOTS Project:** <https://github.com/roots-ips-pt>
+> 🧠 **Maintainers:** @username1, @username2
 
 ## 📌 Overview
 
