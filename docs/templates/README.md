@@ -67,5 +67,9 @@ Project created under the **ROOTS — Rede de Organização Open Tech de Setúba
 
 Mention contributors, sources of inspiration, or prior work.
 
+## 📜 License
+
+See `LICENSE`.
+
 
 
