@@ -1,6 +1,6 @@
 # ✅ Adesão
 
-## 1️⃣ Quem pode ser membro?
+## 🙋 Quem pode ser membro?
 
 Qualquer elemento da comunidade do **Instituto Politécnico de Setúbal (IPS)** pode participar no ROOTS, incluindo:
 
@@ -14,7 +14,7 @@ O grupo promove a colaboração interdisciplinar e está aberto tanto a atividad
 
 ---
 
-## 2️⃣ Registo
+## 📝 Registo
 
 Para integrar a comunidade ROOTS, é necessário preencher o formulário de adesão:
 
@@ -33,7 +33,7 @@ Este registo serve para:
 
 ---
 
-## 3️⃣ Conta GitHub
+## 🪪 Conta GitHub
 
 O ROOTS utiliza o GitHub como principal plataforma de colaboração, gestão de discussões e desenvolvimento de projetos.
 
@@ -51,7 +51,7 @@ Para poder:
 >
 > Como após a conclusão do curso deixas de ter acesso ao email institucional, recomenda-se que **cries a conta GitHub usando o teu email pessoal**, para garantir continuidade como membro *Alumni*.
 
-### 🪪 Perfil GitHub recomendado
+### Perfil GitHub recomendado
 
 Para facilitar a criação de equipas e a identificação de afinidades, sugere-se que a descrição do teu perfil GitHub inclua:
 
@@ -79,7 +79,7 @@ O ROOTS valoriza contributos multidisciplinares, não é necessário ter “*har
 
 ---
 
-## 4️⃣ Acesso à organização ROOTS no GitHub
+## 🔑 Acesso à organização ROOTS no GitHub
 
 Após criares a tua conta GitHub e preencheres o formulário:
 
@@ -96,7 +96,7 @@ Depois de aceite:
 
 ---
 
-## 5️⃣ Leitura obrigatória: Código de Conduta
+## 🤝 Leitura obrigatória: Código de Conduta
 
 Antes de participares ativamente, é **obrigatório ler o [Código de Conduta](code-of-conduct.md) do ROOTS**.
 
@@ -111,7 +111,7 @@ O cumprimento destas regras é essencial para garantir um ambiente seguro, inclu
 
 ---
 
-## 6️⃣ Participação e compromisso
+## 🧘‍♂️ Participação e compromisso
 
 A participação no ROOTS é **totalmente voluntária**.
 Cada membro define o seu nível de envolvimento, mas espera-se:
@@ -125,7 +125,7 @@ Não existem obrigações formais, mas a comunidade cresce com a participação 
 
 ---
 
-## 7️⃣ Contacto
+## ✉️ Contacto
 
 Se tiveres dúvidas adicionais sobre o processo de adesão, envia email com assunto `"ROOTS - Adesão "` para:
 
