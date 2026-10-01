@@ -1,4 +1,4 @@
-# Política de Licenciamento
+# 📜 Política de Licenciamento
 
 Os projetos desenvolvidos pela **ROOTS – Rede de Organização Open Tech de Setúbal** são, por regra, disponibilizados sob a **Apache License 2.0**.
 
@@ -14,13 +14,13 @@ A adoção da Apache License 2.0 **não significa que todas as patentes dos memb
 
 A ROOTS pretende, desta forma, promover uma cultura de **desenvolvimento tecnológico aberto e colaborativo**, facilitando a reutilização dos seus projetos e a colaboração entre estudantes, docentes, investigadores, comunidade e organizações externas, incluindo empresas.
 
-## Reconhecimento dos contribuidores
+## 🧑‍🤝‍🧑 Reconhecimento dos contribuidores
 
 O copyright dos projetos é atribuído à **ROOTS – Rede de Organização Open Tech de Setúbal**, quando tal corresponda à titularidade dos direitos aplicável ao projeto.
 
 O reconhecimento individual dos membros e restantes contribuidores pode ser mantido através de um ficheiro `CONTRIBUTORS.md` ou de outro mecanismo definido pelo projeto. Este reconhecimento tem como objetivo valorizar a participação dos contribuidores e não substitui os avisos de copyright ou as restantes obrigações estabelecidas pela licença.
 
-## Aplicação
+## 👊 Aplicação
 
 Cada novo projeto da ROOTS deverá incluir, por defeito:
 
