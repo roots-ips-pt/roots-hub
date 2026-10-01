@@ -2,7 +2,7 @@
 
 🚧 *This is a draft. May be adjusted as needed.*
 
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > The Changelog is written in English, according to the group's language policy.
 
 # 1. Purpose
@@ -28,7 +28,10 @@ The *changelog* format should follow the recommendations of [Keep a Changelog](h
 
 Below is the general format of a file. Note the use of sections (`##`) for versions and subsections (`###`) for the type of changes.
 
-```markdown
+> [!TIP]  
+> Before any release, the changelog is kept under `[Unreleased]`.
+
+```text
 ## [Unreleased]
 ### Added
 - ... 
@@ -47,6 +50,15 @@ Below is the general format of a file. Note the use of sections (`##`) for versi
 
 ### Security
 -  
+```
+
+Example of changelog with releases:
+
+```text
+## [Unreleased]
+### Added
+-
+(...)
 
 ---
 
@@ -57,6 +69,7 @@ Below is the general format of a file. Note the use of sections (`##`) for versi
 ### Changed
 -  
 (...)
+
 ---
 
 (...other releases...)
