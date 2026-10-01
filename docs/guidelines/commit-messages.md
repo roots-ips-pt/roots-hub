@@ -84,7 +84,7 @@ refactor: remove legacy LED driver
 BREAKING CHANGE: The old driver class has been removed.
 ```
 
-Breaking changes trigger a **MAJOR** version bump.
+:warning: Breaking changes should trigger a **MAJOR** version bump.
 
 ---
 
@@ -164,6 +164,12 @@ BREAKING CHANGE: ...
 ---
 
 ## 8. Relation to Semantic Versioning
+
+We use [Semantic Versioning (SemVer)](./versioning.md):
+
+```
+MAJOR.MINOR.PATCH
+```
 
 Commits help determine the next version bump:
 

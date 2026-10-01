@@ -6,8 +6,26 @@ Este documento descreve o processo completo para propor, discutir, validar e ini
 
 ## Resumo do Workflow
 
+O típico ciclo de vida de um projeto é o seguinte:
+
 ```
-Ideia ➡️ Proposta ➡️ Discussão ➡️ Validação ➡️ Aprovação ➡️ Criação do Repositório ➡️ Kickoff ➡️ Desenvolvimento (e atualizações à comunidade)
+Ideia 
+   ↓
+Proposta
+   ↓
+Discussão
+   ↓
+Validação
+   ↓
+Aprovação
+   ↓
+Criação do Repositório
+   ↓
+Kickoff
+   ↓
+Desenvolvimento (e atualizações à comunidade)
+   ↓
+Arquivo / Encerramento
 ```
 
 
@@ -98,7 +116,7 @@ Se após a fase de discussão:
 
 Se houver desacordo, ambiguidades ou dúvidas:
 
-* Núcleo de Organização decidem por maioria simples.
+* Núcleo de Organização decide por maioria simples.
   * Pode consultar mentores (especialmente em projetos de hardware).
 
 ---
@@ -107,17 +125,20 @@ Se houver desacordo, ambiguidades ou dúvidas:
 
 Após aprovação:
 
-1. Um responsável técnico do ROOTS cria o repositório na organização, com o nome acordado.
-   - ℹ️ Por uma questão de uniformização e identidade, todos os nomes de repositórios terão o prefixo `roots-...`
+1. Um responsável do Núcleo de Organização do ROOTS cria o repositório na organização, com o nome acordado.
+   - ℹ️ Por uma questão de uniformização e identidade, todos os nomes de repositórios terão o formato `roots-<nome projeto>`
   
 2. O repositório é inicializado com:
 
-   * `README.md` básico
-   * Licença open-source
+   * Documentos *template* (a editar pelo grupo do projeto):
+      - `README.md`
+      - `CHANGELOG.md`
+      - `CONTRIBUTING.md`
+   * `LICENSE` - Licença open-source Apache 2.0
    * Estrutura base (se aplicável)
 
 3. É criada uma *Team* (equipa GitHub, para facilitar a gestão de permissões) para esse projeto, contendo os membros iniciais.
-   - ℹ️ Para facilitar a identificação das equipas dos projetos, os nomes das equipas seguirão a nomenclatura `team-<repositório-projeto>`.
+   - ℹ️ Para facilitar a identificação das equipas dos projetos, os nomes das equipas seguirão a nomenclatura `team-<nome projeto>`.
 
 4. A equipa do projeto recebe permissões adequadas para o repositório respetivo.
 
@@ -131,18 +152,18 @@ O proponente (agora líder inicial do projeto) organiza:
   * Um *Roadmap* para o desenvolvimento;
   * Primeiras *tarefas* para dividir trabalho.
 
-(TODO: verificar o uso de *Projects* para gerir as tarefas, e.g., quadro *Kanban*)
+* A equipa atualiza o `README` do projeto, incluindo o *roadmap* decidido.
 
 ---
 
-## 🔄 **8. Desenvolvimento Contínuo**
+## 🔄 **8. Desenvolvimento**
 
 Durante o desenvolvimento:
 
 * O projeto deve manter um **changelog**.
 * Contribuições seguem o guia de *Contributing*.
-* Reuniões, decisões e atas (se existirem) podem ser guardadas no repositório, numa pasta apropriada, e.g., `/meetings/`.
-* Estado do projeto deve ser atualizado no tópico respetivo de Discussions com informação à comunidade de avanços relevantes efetuados. 
+* Estado do projeto deve ser atualizado no tópico respetivo de **Discussions** com informação à comunidade de avanços relevantes efetuados. 
+* Deverão ser efetuadas *releases*, se aplicável.
 
 ---
 
@@ -150,15 +171,15 @@ Durante o desenvolvimento:
 
 É possível arquivar um projeto se:
 
-* estiver completo
-* não tiver atividade por > 6 meses
-* equipa solicitar encerramento
+* estiver completo;
+* não tiver atividade por > 1 ano, ou;
+* a equipa solicitar encerramento.
 
 O arquivamento é decidido por:
 
 * A equipa do projeto **+** O Núcleo de Organização.
 
-O repositório permanece visível para consulta.
+**O repositório permanece visível para consulta.**
 
 
 

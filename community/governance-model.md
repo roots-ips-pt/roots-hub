@@ -5,6 +5,7 @@ Este documento define a estrutura organizacional, os papéis, responsabilidades 
 > [!WARNING]
 > Este documento poderá ser atualizado sempre que necessário, em reunião aberta do grupo.
 > 
+
 ## 🏛️ Estrutura organizacional
 
 ###  Coordenador(a) Geral
@@ -34,7 +35,7 @@ Grupo rotativo de estudantes voluntários, com **mandato de 1 semestre**, respon
 - **Responsável de Eventos** – programação, contactos, agendamento.
 - **Responsável de Comunicação** – divulgação, redes sociais, materiais gráficos.
 - **Responsável Técnico** – manutenção de repositórios, ferramentas, infraestrutura digital.
-- (🚧 Outras que venhamos a necessitar)
+- --Outras-- que venhamos a necessitar.
 
 ---
 
@@ -68,7 +69,7 @@ Docentes, funcionários não-docente ou *alumni* que apoiam o grupo com orienta�
   As funções no núcleo organizador mudam a cada semestre, promovendo aprendizagem e rotatividade.
 
 - **Participação por mérito e interesse**  
-  O ROOTS não tem hierarquias rígidas: *quem faz, decide*. O contributo efetivo orienta a tomada de decisão. No entanto, devem ser seguidas as *guidelines* estabelecidas.
+  O ROOTS não tem hierarquias rígidas: *quem faz, decide*. O contributo efetivo orienta a tomada de decisão. No entanto, devem ser seguidas as **guidelines** estabelecidas (ver `docs/guidelines`).
 
 - **Comunicação transparente**  
   Utilizam-se ferramentas abertas e acessíveis à comunidade.

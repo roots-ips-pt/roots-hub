@@ -20,9 +20,9 @@ A consistent versioning strategy:
 * Makes automation (CI/CD, deployments, changelog generation) more reliable.
 * Sets common expectations for what a version number communicates.
 
-## 3. Recommended Scheme: Semantic Versioning (SemVer)
+## 3. Semantic Versioning (SemVer)
 
-Projects SHOULD follow [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html) (SemVer):
+Projects SHOULD follow [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html) (SemVer) whenever suited (see [section 7](#7.-applicability-to-different-types-of-projects)):
 
 ```
 MAJOR.MINOR.PATCH

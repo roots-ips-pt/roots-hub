@@ -2,8 +2,8 @@
 
 Short description of what this project does and why it exists.
 
-> ℹ️ **Status:** Under initial development (version unreleased)  
-> 🌱 **ROOTS Project:** <https://github.com/roots-ips-pt>
+> ℹ️ **Status:** Under initial development (version unreleased)    
+> 🌱 **ROOTS Project:** <https://github.com/roots-ips-pt>  
 > 🧠 **Maintainers:** @username1, @username2
 
 ## 📌 Overview
@@ -12,7 +12,7 @@ Provide a concise overview of the project.
 What problem does it solve? What is the main objective?  
 Who is the target audience (students, teachers, general public, makers…)?
 
-## 🚀 Features (Current / Planned)
+## 🚀 Features (Current / Planned) and Roadmap
 
 - Feature 1  
 - Feature 2  

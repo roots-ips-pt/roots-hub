@@ -1,6 +1,6 @@
 # Changelog
 
-ℹ️ Check the *guidelines* for the changelog and remove this line.
+The changelog follows the community guidelines (see `roots-hub/docs/guidelines/changelog.md`).
 
 ## [Unreleased]
 ### Added

@@ -14,11 +14,11 @@ O grupo promove a colaboração interdisciplinar e está aberto tanto a atividad
 
 ---
 
-## 2️⃣ Registo obrigatório
+## 2️⃣ Registo
 
 Para integrar a comunidade ROOTS, é necessário preencher o formulário de adesão:
 
-👉 [Formulário de adesão](https://forms.office.com/e/EsZqadJWXu)
+👉 **[Formulário de adesão](https://forms.office.com/e/EsZqadJWXu)**
 
 Este registo serve para:
 
@@ -44,14 +44,12 @@ Para poder:
 * Criar ou comentar issues, e/ou;
 * Fazer parte de equipas de projeto.
 
-é necessária uma conta GitHub ativa.
+é **necessária uma conta GitHub ativa**.
 
-### 🎓 Recomendação para estudantes
-
-Como após a conclusão do curso deixas de ter acesso ao email institucional, recomenda-se que:
-
-* **cries a conta GitHub usando o teu email pessoal**,
-  para garantir continuidade como membro *Alumni*.
+> [!TIP]
+> 🎓 **Recomendação para estudantes**
+>
+> Como após a conclusão do curso deixas de ter acesso ao email institucional, recomenda-se que **cries a conta GitHub usando o teu email pessoal**, para garantir continuidade como membro *Alumni*.
 
 ### 🪪 Perfil GitHub recomendado
 
@@ -77,7 +75,7 @@ Para facilitar a criação de equipas e a identificação de afinidades, sugere-
 
   * investigação e análise
 
-O ROOTS valoriza contributos multidisciplinares — não é necessário ter “*hard-skills*” técnicas para participar ativamente. Cada competência conta!
+O ROOTS valoriza contributos multidisciplinares, não é necessário ter “*hard-skills*” técnicas para participar ativamente. Cada competência conta!
 
 ---
 
@@ -100,9 +98,7 @@ Depois de aceite:
 
 ## 5️⃣ Leitura obrigatória: Código de Conduta
 
-Antes de participares ativamente, é **obrigatório** ler o _Código de Conduta_ do ROOTS:
-
-👉 `docs/community/code-of-conduct.md`
+Antes de participares ativamente, é **obrigatório ler o [Código de Conduta](code-of-conduct.md) do ROOTS**.
 
 Este documento define:
 
@@ -131,7 +127,7 @@ Não existem obrigações formais, mas a comunidade cresce com a participação 
 
 ## 7️⃣ Contacto
 
-Se tiveres dúvidas adicionais sobre o processo de adesão, envia email com assunto `"Adesão ROOTS"` para:
+Se tiveres dúvidas adicionais sobre o processo de adesão, envia email com assunto `"ROOTS - Adesão "` para:
 
 📩 **[bruno.silva@estsetubal.ips.pt](mailto:bruno.silva@estsetubal.ips.pt)**
 
