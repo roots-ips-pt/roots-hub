@@ -4,7 +4,7 @@ A comunicação no ROOTS deve ser simples, centralizada e acessível a todos os 
 
 ---
 
-## 1️⃣ Canal principal: GitHub Discussions
+## 💬 Canal principal: GitHub Discussions
 
 A plataforma oficial de comunicação do ROOTS é a **organização GitHub do grupo**, através do separador:
 
@@ -23,7 +23,7 @@ Todas as interações ficam organizadas, pesquisáveis e acessíveis a qualquer 
 
 ---
 
-## 2️⃣ Porque centralizamos a comunicação?
+## 🎯 Porque centralizamos a comunicação?
 
 * **Evita dispersão** por Slack, Discord, WhatsApp, Telegram, etc.
 * **Preserva o histórico** das discussões e decisões.
@@ -33,7 +33,7 @@ Todas as interações ficam organizadas, pesquisáveis e acessíveis a qualquer 
 
 ---
 
-## 3️⃣ Outros canais (caso venham a existir)
+## 🗨️ Outros canais (caso venham a existir)
 
 Se no futuro for necessário utilizar outros meios de comunicação, como:
 
@@ -52,7 +52,7 @@ Até lá, o GitHub permanece como o **único canal oficial** do ROOTS.
 
 ---
 
-## 4️⃣ Contacto institucional
+## ✉️ Contacto institucional
 
 Para comunicações formais ou administrativas:
 
